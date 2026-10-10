@@ -1,7 +1,6 @@
 # AgendApp
 
-**Aluno:** _[preencher: nome completo]_
-**Matrícula:** _[preencher]_
+**Aluno:** Jean Jerri Rocha Bento da Silva
 **Data:** 09/10/2026
 
 ## Justificativa do tema
